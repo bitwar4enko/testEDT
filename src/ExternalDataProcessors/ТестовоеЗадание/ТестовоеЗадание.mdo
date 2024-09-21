@@ -9,4 +9,14 @@
     <value>Тестовое задание</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="37f19b83-bde9-4a79-9e16-e26d2c2e1a70"/>
+  <defaultForm>ExternalDataProcessor.ТестовоеЗадание.Form.Форма</defaultForm>
+  <forms uuid="8b1636a4-0922-4a56-8a79-0e922622f42d">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalDataProcessor>
